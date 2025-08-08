@@ -1,5 +1,4 @@
-# Power-BI-Dashboard-Airbnb-C-NO
-> An interactive Power BI dashboard that visualizes Airbnb listings in New York and New Orleans City to uncover pricing trends, popular neighborhoods, and room-type preferences.
+An interactive Power BI dashboard that visualizes Airbnb listings in New York and New Orleans City to uncover pricing trends, popular neighborhoods, and room-type preferences.
 > It helps hosts and investors make data-driven decisions by analyzing location, availability, and revenue insights.
 
 Here’s a **detailed description** of your **Power BI Dashboard for Airbnb** project titled **“Power-BI-Dashboard-Airbnb-C-NO”**, following the exact structure you asked:
